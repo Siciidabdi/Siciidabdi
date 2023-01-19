@@ -8,7 +8,13 @@
 
 - 📫 How to reach me **siciidhussein7@gmail.com**
 
-- 📄 Know about my experiences [Web Designer](Web Designer)
+- 📄 Know about my experiences [Web Designer,Graphic Designer]
+
+- 👯   I’m looking to collaborate on Job
+
+-💬 Ask me about Everything
+
+⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
