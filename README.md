@@ -12,9 +12,9 @@
 
 - 👯   I’m looking to collaborate on Job
 
--💬 Ask me about Everything
+- 💬 Ask me about Everything
 
-⚡ Fun fact I think I am funny
+- ⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
