@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siciid abdi</h1>
-<h3 align="center">A passionate frontend developer from Hargeisa</h3>
+<h3 align="center">A passionate Full Stack developer from Hargeisa </h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611994ae2d34843d52c92c8629ef9c7356d7b844375&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siciidabdi&label=Profile%20views&color=0e75b6&style=flat" alt="siciidabdi" /> </p>
@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **siciidhussein7@gmail.com**
 
-- 📄 Know about my experiences [Web Designer,Graphic Designer]
+- 📄 Know about my experiences [Web Developer ,Graphic Designer]
 
-- 👯   I’m looking to collaborate on Job
+- 👯   I’m looking To collaborate on Job
 
 - 💬 Ask me about Everything
 
